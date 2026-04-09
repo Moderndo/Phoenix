@@ -1,0 +1,19 @@
+{
+  "row_distribution": {
+    "disaster_weight": 1.0,
+    "cyber_weight": 1.0,
+    "misinfo_weight": 1.0
+  },
+  "defaults": {
+    "threat_stream": "integrated",
+    "source": "AI005"
+  },
+  "severity_mapping": {
+    "minor": "low",
+    "moderate": "medium",
+    "severe": "high",
+    "extreme": "critical",
+    "high": "high",
+    "critical": "critical"
+  }
+}
